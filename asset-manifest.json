@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/videojs-mobile/static/css/main.1685fa80.css",
-    "main.js": "/videojs-mobile/static/js/main.d9e01294.js",
-    "static/js/453.977b6229.chunk.js": "/videojs-mobile/static/js/453.977b6229.chunk.js",
-    "index.html": "/videojs-mobile/index.html",
-    "main.1685fa80.css.map": "/videojs-mobile/static/css/main.1685fa80.css.map",
-    "main.d9e01294.js.map": "/videojs-mobile/static/js/main.d9e01294.js.map",
-    "453.977b6229.chunk.js.map": "/videojs-mobile/static/js/453.977b6229.chunk.js.map"
+    "main.css": "/VideoJS-Player/static/css/main.1685fa80.css",
+    "main.js": "/VideoJS-Player/static/js/main.0a34df21.js",
+    "static/js/453.977b6229.chunk.js": "/VideoJS-Player/static/js/453.977b6229.chunk.js",
+    "index.html": "/VideoJS-Player/index.html",
+    "main.1685fa80.css.map": "/VideoJS-Player/static/css/main.1685fa80.css.map",
+    "main.0a34df21.js.map": "/VideoJS-Player/static/js/main.0a34df21.js.map",
+    "453.977b6229.chunk.js.map": "/VideoJS-Player/static/js/453.977b6229.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1685fa80.css",
-    "static/js/main.d9e01294.js"
+    "static/js/main.0a34df21.js"
   ]
 }
