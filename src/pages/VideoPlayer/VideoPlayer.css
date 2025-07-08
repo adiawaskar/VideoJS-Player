@@ -1,0 +1,20 @@
+.video-container {
+  position: relative;
+  padding-top: 56.25%; 
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  background: #000;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  box-sizing: border-box;
+}
+
+.video-container > div {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 90%;
+  height: 80%;
+  transform: translate(-50%, -60%);
+}

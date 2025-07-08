@@ -1,0 +1,27 @@
+/* Always show control bar in normal mode */
+.video-js .vjs-control-bar {
+  opacity: 1 !important;
+  visibility: visible !important;
+  transition: none !important;
+}
+
+/* Prevent fade out when user is inactive */
+.video-js.vjs-has-started.vjs-user-inactive .vjs-control-bar {
+  opacity: 1 !important;
+  visibility: visible !important;
+  pointer-events: auto !important;
+}
+
+/* Keep control bar visible in fullscreen mode */
+.video-js.vjs-fullscreen .vjs-control-bar,
+.video-js.vjs-fullscreen.vjs-user-inactive .vjs-control-bar {
+  opacity: 1 !important;
+  visibility: visible !important;
+  pointer-events: auto !important;
+  transition: none !important;
+}
+
+/* Optional: hide big play button if undesired */
+/* .video-js .vjs-big-play-button {
+  display: none !important;
+} */
