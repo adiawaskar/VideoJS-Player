@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/videojs-mobile/static/css/main.145902ea.css",
+    "main.js": "/videojs-mobile/static/js/main.8770a7b7.js",
+    "static/js/453.977b6229.chunk.js": "/videojs-mobile/static/js/453.977b6229.chunk.js",
+    "static/media/logo.svg": "/videojs-mobile/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/videojs-mobile/index.html",
+    "main.145902ea.css.map": "/videojs-mobile/static/css/main.145902ea.css.map",
+    "main.8770a7b7.js.map": "/videojs-mobile/static/js/main.8770a7b7.js.map",
+    "453.977b6229.chunk.js.map": "/videojs-mobile/static/js/453.977b6229.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.145902ea.css",
+    "static/js/main.8770a7b7.js"
+  ]
+}
